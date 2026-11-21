@@ -164,8 +164,8 @@ for (let i = 0; i < coll.length; i++) {
 
     // 
     if (this.id == "SkillDetail"){
-        let skillsDegrees = SkillsDetails[colindx-11].querySelectorAll('.SkillsDegree');
-        let SkillsSummary = SkillsDetails[colindx-11].querySelectorAll('.SkillsSummary');
+        let skillsDegrees = SkillsDetails[colindx-12].querySelectorAll('.SkillsDegree');
+        let SkillsSummary = SkillsDetails[colindx-12].querySelectorAll('.SkillsSummary');
         // console.log(SkillsD[indx-10])
         // Object.style.display = "none";
         // subPeriod.style.display = "none";
